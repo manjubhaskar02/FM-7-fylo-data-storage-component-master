@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/manjubhaskar02/FM-7-fylo-data-storage-component-master](https://github.com/manjubhaskar02/FM-7-fylo-data-storage-component-master)
 - Live Site URL: [https://manjubhaskar02.github.io/FM-7-fylo-data-storage-component-master/](https://manjubhaskar02.github.io/FM-7-fylo-data-storage-component-master/)
 
 ## My process
