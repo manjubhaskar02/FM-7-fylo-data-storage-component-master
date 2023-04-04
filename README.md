@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://manjubhaskar02.github.io/FM-7-fylo-data-storage-component-master/](https://manjubhaskar02.github.io/FM-7-fylo-data-storage-component-master/)
 
 ## My process
 

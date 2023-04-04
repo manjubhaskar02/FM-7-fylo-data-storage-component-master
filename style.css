@@ -30,11 +30,6 @@ body {
     left: 0;
     z-index: -1;
 }
-
-/* .banner { */
-/* background-color: var(--Very-Dark-Blue); */
-/* background-image: url(images/bg-desktop.png); */
-/* }  */
 main {
     display: grid;
     grid-auto-flow: column;
@@ -138,9 +133,6 @@ section {
     height: 18px;
     border-radius: 50px;
     padding: 0px 2px;
-
-
-
 }
 
 .progress {
@@ -150,7 +142,6 @@ section {
     border-radius: 50px;
     position: relative;
     animation: load 8s normal forwards;
-
 }
 
    @keyframes load {
