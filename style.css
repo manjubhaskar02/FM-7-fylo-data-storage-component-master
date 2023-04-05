@@ -30,6 +30,7 @@ body {
     left: 0;
     z-index: -1;
 }
+
 main {
     display: grid;
     grid-auto-flow: column;
@@ -141,13 +142,19 @@ section {
     height: 16px;
     border-radius: 50px;
     position: relative;
+    box-shadow: 0px 10px 40px -2px hsl(335, 100%, 65%);
     animation: load 8s normal forwards;
 }
 
-   @keyframes load {
-    0% { width: 4%; }
-    100% { width: 75%; }
-  }
+@keyframes load {
+    0% {
+        width: 4%;
+    }
+
+    100% {
+        width: 75%;
+    }
+}
 
 .round {
     position: absolute;
@@ -168,17 +175,6 @@ section {
     display: none;
 }
 
-
-
-/* footer */
-.attribution {
-    font-size: 11px;
-    text-align: center;
-}
-
-.attribution a {
-    color: hsl(228, 45%, 44%);
-}
 /* mobile view */
 @media screen and (max-width:500px) {
     body {
